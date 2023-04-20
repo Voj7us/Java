@@ -1,3 +1,5 @@
+//Aplikacja jest najprostszym symulatorem bankomatu
+
 package obiektyP;
 
 import java.util.Scanner;
