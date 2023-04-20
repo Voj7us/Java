@@ -1,3 +1,6 @@
+//Aplikacja jest grą w której komputer losuje liczbę z przedziału od 1 do 10, a naszym zadaniem jest odgadnięcie tej liczby. 
+//Aplikacja po zgadnięciu informuje nas o ilości prób
+
 import java.util.Random;
 import java.util.Scanner;
 
