@@ -1,3 +1,5 @@
+//aplikacja polega na przelewaniu wody pomiędzy butelkami
+
 package butelka;
 
 import java.util.Scanner;
