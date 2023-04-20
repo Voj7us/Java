@@ -1,3 +1,5 @@
+//Aplikacja po wprowadzeniu masy ciała oraz wzrostu obliczy wskaźnik masy ciała(BMI)
+
 package BMI;
 
 import java.text.DecimalFormat;
